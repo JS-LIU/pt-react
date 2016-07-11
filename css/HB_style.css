@@ -1,0 +1,19 @@
+body{
+    min-width: 320px;
+    max-width:640px;
+    margin:0 auto;
+}
+.list{
+    height:44px;
+    line-height:44px;
+}
+.backBtn{
+    padding-left: 35px;
+    top:0px;
+    left:0px;
+    width: 30px;
+    height:44px;
+    background:url("../images/header-back.png") no-repeat 15px center;
+    -webkit-background-size:15px;
+    background-size:15px;
+}
